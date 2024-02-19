@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Umlaut",
+    "version": "1.0.0",
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+
+    },
+    "description": "Easy access to German letters.",
+    "author": "Sara Habib",
+    "permissions": ["clipboardWrite"],
+    "action": {
+      "default_popup": "index.html"
+    }
+
+  }
+  
