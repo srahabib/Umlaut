@@ -1,4 +1,5 @@
 # Umlaut Chrome Extension
+![Uploading image.png…]()
 
 The Umlaut Chrome Extension provides easy access to German letters ß, ä, ö, ü, Ä, Ö, and Ü, allowing users to copy them directly from the extension.
 
